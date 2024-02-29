@@ -14,3 +14,10 @@ these are a series of stand-alone python programs that assist in the making of a
 - Use the output to make a painting, for example, each roll will be ascribed a color. and 
 that number of squares could be filled in a grid. The result will look like a pixelated political map 
 or a weird game of tetris.
+---
+* How to Use *
+1. Download die-for-painting.py
+2. Run in Terminal/Command Line Interface `python3 die-for-painting.py`
+3. Follow the prompts*
+4. Note, if you don't enter in color(s), you will be assigned a rainbow!
+![screenshot of terminal running through die-for-painting.py](/images/die-for-painting.png)
